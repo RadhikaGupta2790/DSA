@@ -89,3 +89,13 @@ for edge in undirected_edges_2:
 # Check if the undirected graph 2 is cyclic
 is_cyclic_undirected_2 = graph.is_cyclic()
 print(f"Is undirected graph 2 cyclic? {is_cyclic_undirected_2}")
+
+
+'''
+O/P:
+
+Is directed graph 1 cyclic? True
+Is directed graph 2 cyclic? False
+Is undirected graph 1 cyclic? True
+Is undirected graph 2 cyclic? True
+'''
